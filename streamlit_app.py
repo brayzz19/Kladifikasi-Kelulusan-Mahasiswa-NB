@@ -613,6 +613,8 @@ with st.sidebar:
         <div class="sb-profile-info">
             <div class="sb-profile-name">Aradhana Febriansyah</div>
             <div class="sb-profile-detail">NIM 23.12.3040 · SI · 2026</div>
+            <div class="sb-profile-name">Attala Fawwazstsani Anam</div>
+            <div class="sb-profile-detail">NIM 23.12.3054 · SI · 2026</div>
         </div>
     </div>
     """, unsafe_allow_html=True)
